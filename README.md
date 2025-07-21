@@ -1,6 +1,6 @@
-# 💀🔮 Santet Online 🦠💥
+# 💀🔮 Santetin 🦠💥
 
-**Santet Online** is a powerful desktop application built with Electron to perform website stress tests, penetration testing simulations, DDOS attacks, and traffic jingling for testing and educational purposes.
+**Santetin** is a powerful desktop application built with Electron to perform website stress tests, penetration testing simulations, DDOS attacks, and traffic jingling for testing and educational purposes.
 
 > ⚠️ **Disclaimer:** This tool is intended for educational and testing purposes only. Do not use it against any website without explicit permission from the owner.
 
