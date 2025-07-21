@@ -21,3 +21,10 @@
 - **Cross-platform**: Available for **Windows**, **MacOS**, and **Linux**.
 
 ---
+
+
+## 📦 Download
+
+You can download the latest release here:
+
+👉 **[Download Latest Release](https://github.com/budisantosoku/SANTETIN/releases)**
