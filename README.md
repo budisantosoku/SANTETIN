@@ -5,6 +5,9 @@
 > ⚠️ **Disclaimer:** This tool is intended for educational and testing purposes only. Do not use it against any website without explicit permission from the owner.
 
 ---
+## 🖥️ Screenshot
+
+![screenshot](ss.png)
 
 ## 🚀 Features
 
